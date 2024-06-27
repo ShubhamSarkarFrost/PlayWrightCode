@@ -13,6 +13,7 @@
     "@types/node": "^20.14.8"
   },
   "dependencies": {
+    "exceljs": "^4.4.0",
     "pino": "^9.2.0"
   }
 }
